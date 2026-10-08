@@ -1,0 +1,1 @@
+-- Análise exploratória inicial do dataset Olist
