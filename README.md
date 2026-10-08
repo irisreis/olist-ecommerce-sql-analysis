@@ -46,9 +46,3 @@ As consultas pressupõem a importação dos CSVs originais para tabelas `olist_*
 - **Avaliações por categoria**: a nota de um pedido com itens de categorias diferentes é contabilizada uma vez em cada uma dessas categorias.
 
 > **Importante:** os SQLs foram revisados estaticamente, mas ainda **não foram executados contra o banco de dados**. Os resultados e insights precisam ser validados no DBeaver antes de serem apresentados como descobertas.
-
-## Próximos passos
-
-- Executar e validar as consultas no PostgreSQL.
-- Registrar resultados reais e conclusões no `insights.md`.
-- Criar gráficos com os achados mais relevantes.
