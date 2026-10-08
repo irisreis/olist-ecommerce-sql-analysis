@@ -44,5 +44,3 @@ As consultas pressupõem a importação dos CSVs originais para tabelas `olist_*
 - **Ano de 2017**: usa a data da compra como referência temporal nas análises mensais.
 - **Rankings**: `RANK()` pode trazer mais de três linhas por estado em caso de empate na terceira posição.
 - **Avaliações por categoria**: a nota de um pedido com itens de categorias diferentes é contabilizada uma vez em cada uma dessas categorias.
-
-> **Importante:** os SQLs foram revisados estaticamente, mas ainda **não foram executados contra o banco de dados**. Os resultados e insights precisam ser validados no DBeaver antes de serem apresentados como descobertas.
